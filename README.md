@@ -1,6 +1,6 @@
 # New_Grad_Companies
 Companies a new grad software engineer can apply for
-Amazon
+1. Amazon
 TikTok
 Coinbase
 VISA
@@ -121,5 +121,4 @@ Lookout
 Cisco
 Weights & Biases
 Waymo
-Medallion![image](https://user-images.githubusercontent.com/20269727/153465510-65b28892-30e2-41f0-bb39-802a5ede5fc5.png)
-
+Medallion
