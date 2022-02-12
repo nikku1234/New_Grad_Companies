@@ -35,16 +35,88 @@
  35. TuSimple 
  36. Ripple 
  37. Jerry Grubhub
-    ColorTokens Guidewire ZipRecuriter WarnerMedia SingleStore Harnham
-    BigCloud American Express Global Business Travel TrueEra Arena
-    Vidrovr Sumo Logic FiveStars Expedia Dover R+L Carriers Circle
-    DataBricks Paychex Aml Group PluralSight Demetica Verkada
-    standard.ai Meta Sundial Ai Stealth Mode LinkedIn Wing Cavera Path
-    to Canada Onnu Perficient Apex Systems Glimpse.ai Neo Cybernetica
-    Orchad Jane Street Airtable The volen Sig Goldmansacks FiveRings
-    Palantir Vangaurd Belvedre Brex Qualatrics Sunshine Silicon Labs
-    Blend Workday AnyScale Twillo IXL Learning Two Sigma Redfin Cadence
-    Amdocs EightFold.Ai PatientBond Eclaro Nike Micron Aristocrat Figma
-    SeatGeek FourSquare Ford Affirm Instabase Unity Microsoft Sentry
-    Benchling SalesForce Chewy Kensho WeRide Lookout Cisco Weights &
-    Biases Waymo Medallion
+ 38. ColorTokens
+ 39. Guidewire
+ 40. ZipRecuriter
+ 41. WarnerMedia
+ 42. SingleStore
+ 43. Harnham
+ 44. BigCloud
+ 45. American Express Global Business Travel 
+ 46. TrueEra 
+ 47. Arena
+ 48. Vidrovr
+ 49. Sumo Logic 
+ 50. FiveStars 
+ 51. Expedia 
+ 52. Dover 
+ 53. R+L Carriers 
+ 54. Circle
+ 55. DataBricks 
+ 56. Paychex 
+ 57. Aml Group 
+ 58. PluralSight 
+ 59. Demetica 
+ 60. Verkada
+ 61. standard.ai 
+ 62. Meta 
+ 63. Sundial Ai 
+ 64. Stealth Mode 
+ 65. LinkedIn 
+ 66. Wing 
+ 67. Cavera 
+ 68. Path to Canada 
+ 69. Onnu 
+ 70. Perficient 
+ 71. Apex Systems 
+ 72. Glimpse.ai 
+ 73. Neo 
+ 74. Cybernetica
+ 75. Orchad
+ 76. Jane Street 
+ 77. Airtable 
+ 78. The volen 
+ 79. Sig 
+ 80. Goldmansacks 
+ 81. FiveRings
+ 82. Palantir 
+ 83. Vangaurd 
+ 84. Belvedre 
+ 85. Brex 
+ 86. Qualatrics 
+ 87. Sunshine 
+ 88. Silicon Labs
+ 89. Blend 
+ 90. Workday 
+ 91. AnyScale 
+ 92. Twillo 
+ 93. IXL Learning 
+ 94. Two Sigma 
+ 95. Redfin 
+ 96. Cadence
+ 97. Amdocs 
+ 98. EightFold.Ai 
+ 99. PatientBond 
+ 100. Eclaro 
+ 101. Nike 
+ 102. Micron 
+ 103. Aristocrat 
+ 104. Figma
+ 105. SeatGeek 
+ 106. FourSquare 
+ 107. Ford 
+ 108. Affirm 
+ 109. Instabase 
+ 110. Unity 
+ 111. Microsoft
+ 112. Sentry
+ 113. Benchling 
+ 114. SalesForce 
+ 115. Chewy 
+ 116. Kensho 
+ 117. WeRide 
+ 118. Lookout 
+ 119. Cisco 
+ 120. Weights & Biases 
+ 121. Waymo 
+ 122. Medallion
